@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificationListener</string>
+    <string name="start_word">Service not started.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
